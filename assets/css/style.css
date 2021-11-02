@@ -29,11 +29,12 @@ li {
 a {
   text-decoration: none;
   
-  transition: all 0.5s ease 0s;
+  transition: all 0.8s ease 0.2s;
 }
 
 a:hover {
   color: #E1E1E6;
+  border-bottom: 1px solid #fff;
 }
 
 .logo {
@@ -44,7 +45,7 @@ a:hover {
   list-style: none;
 }
 
-.perfil-button {
+.perfil-img {
   cursor: pointer;
 
   max-width: 2rem;
@@ -52,13 +53,12 @@ a:hover {
   height: 2rem;
   border-radius: 100%;
 
+  margin: 0.2rem;
+  padding: 0.2rem;
+
   transition: all 0.5s ease 0s;
 }
 
-.perfil-button:hover {
+.perfil-img:hover {
   background-color: #272338;
-}
-
-.perfil-img {
-  cursor: pointer;
 }
