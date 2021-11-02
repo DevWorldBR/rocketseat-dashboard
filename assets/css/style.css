@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+/*
+  "Global" styles
+*/
+
 * {
   margin: 0;
   padding: 0;
@@ -36,6 +40,10 @@ a:hover {
   color: #E1E1E6;
   border-bottom: 1px solid #fff;
 }
+
+/*
+  header style
+*/
 
 .logo {
   cursor: pointer;
@@ -85,4 +93,40 @@ a:hover {
 
 .div > img:hover {
   background-color: #1f1b31;
+}
+
+/*
+  Presentation style
+*/
+
+.container {
+
+}
+
+.hello-dev {
+
+}
+
+.hashtag {
+
+}
+
+/*
+  Return Class style
+*/
+
+.container-class {
+
+}
+
+.info-lesson {
+
+}
+
+.return {
+
+}
+
+.play {
+  
 }
