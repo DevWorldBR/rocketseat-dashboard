@@ -41,6 +41,14 @@ a:hover {
   border-bottom: 1px solid #fff;
 }
 
+button {
+
+}
+
+button:hover {
+
+}
+
 /*
   header style
 */
@@ -112,7 +120,7 @@ a:hover {
 }
 
 /*
-  Return Class style
+  Continue Your Class style
 */
 
 .container-class {
@@ -129,4 +137,62 @@ a:hover {
 
 .play {
   
+}
+
+/*
+  Profile area style
+*/
+
+.profile-area {
+
+}
+
+.profile {
+
+}
+
+.profile-img {
+  border-radius: 100%;
+  width: 125px;
+  height: 125px;
+}
+
+.profile-infos {
+
+}
+
+.button-profile {
+
+}
+
+/*
+  Progress style
+*/
+
+.progress {
+
+}
+
+.progress-complet {
+
+}
+
+.breakCmp {
+
+}
+
+.complet-img {
+
+}
+
+.progress-incomplet {
+
+}
+
+.breakIncomplet {
+
+}
+
+.fire {
+
 }
