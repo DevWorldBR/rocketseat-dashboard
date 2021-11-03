@@ -64,9 +64,9 @@ button:hover {
 .header-img {
   cursor: pointer;
 
-  max-width: 2rem;
+  max-width: 1.5rem;
   width: 100%;
-  height: 2rem;
+  height: 1rem;
   border-radius: 100%;
 
   margin: 0.2rem;
@@ -105,6 +105,11 @@ button:hover {
   background-color: #1f1b31;
 }
 
+.perfil {
+  width: 3.2rem;
+  height: 3.2rem;
+}
+
 /*
   Presentation style
 */
@@ -134,7 +139,13 @@ button:hover {
 */
 
 .container-class {
+  width: 69rem;
+  height: 6rem;
+  margin: 0.5rem;
+  padding: 0.5rem;
 
+  background: linear-gradient(90.46deg, #212125 0%, #2D264A 100%);
+border-radius: 6px;
 }
 
 .info-lesson {
@@ -146,7 +157,7 @@ button:hover {
 }
 
 .play {
-  
+  cursor: pointer;
 }
 
 /*
